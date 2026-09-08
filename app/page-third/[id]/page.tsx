@@ -8,7 +8,7 @@ export default function TheDynam(){
        return <>
        <div> My ID is : {id} </div>
 
-        <Link href="\"> the next</Link>
+        <Link href="\"> HOME</Link>
 
        <br></br>
 

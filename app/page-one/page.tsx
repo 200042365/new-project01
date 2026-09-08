@@ -11,7 +11,7 @@ export default function PageOne() {
         <p></p>
         <Link href="/page-two"> THE second page</Link>
         <br></br>
-        <Link href="/page-third"> THIRD page</Link>
+        <Link href="/page-third/{id}"> the dynamic page</Link>
     </nav>
 
 
